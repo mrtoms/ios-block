@@ -18,6 +18,7 @@
     return self;
 }
 
+#pragma mark - 实现OnClick方法，并判断是否实现协议
 -(void) click{
 
     //判断监听器是否实现OnClick方法
